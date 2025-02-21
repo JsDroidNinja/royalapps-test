@@ -15,7 +15,6 @@ This Laravel project is an API-driven application that allows users to manage au
 - Global error and success message handling
 
 ## Installation
-   ```
 1. Install dependencies:
    ```sh
    composer install
