@@ -32,7 +32,7 @@ This Laravel project is an API-driven application that allows users to manage au
    Update database credentials and API base URL.
 4. Generate the application key:
    ```sh
-   c
+   php artisan key:generate
    ```
 6. Start the development server:
    ```sh
