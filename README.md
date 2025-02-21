@@ -1,4 +1,4 @@
-# Laravel API Assignment
+# Royal App
 
 ## Overview
 
@@ -15,26 +15,21 @@ This Laravel project is an API-driven application that allows users to manage au
 - Global error and success message handling
 
 ## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/laravel-api-assignment.git
-   cd laravel-api-assignment
    ```
-2. Install dependencies:
+1. Install dependencies:
    ```sh
    composer install
    ```
-3. Configure the `.env` file:
+2. Configure the `.env` file:
    ```sh
    cp .env.example .env
    ```
    Update database credentials and API base URL.
-4. Generate the application key:
+3. Generate the application key:
    ```sh
    php artisan key:generate
    ```
-6. Start the development server:
+4. Start the development server:
    ```sh
    php artisan serve
    ```
