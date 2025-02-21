@@ -23,7 +23,6 @@ This Laravel project is an API-driven application that allows users to manage au
    ```sh
    cp .env.example .env
    ```
-   Update database credentials and API base URL.
 3. Generate the application key:
    ```sh
    php artisan key:generate
